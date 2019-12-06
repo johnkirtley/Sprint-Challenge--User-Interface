@@ -8,7 +8,7 @@ This challenge allows you to practice the concepts and techniques learned over t
 
 This is an individual assessment. All work must be your own. Your challenge score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
 
-You are not allowed to collaborate during the Sprint Challenge. However, you are encouraged to follow the twenty-minute rule and seek support from your TL if you need direction. Your work reflects your proficiency in user interface and your command of the concepts and techniques in semantic HTML, CSS fundamentals, CSS flexbox module, and git.
+You are not allowed to collaborate during the Sprint Challenge. However, you are encouraged to follow the twenty-minute rule and seek support from your PM and Instructor in your cohort help channel on Slack. Your work reflects your proficiency in user interface and your command of the concepts and techniques in semantic HTML, CSS fundamentals, CSS flexbox module, and git.
 
 You have three hours to complete this challenge. Plan your time accordingly.
 
@@ -33,14 +33,22 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+   Semantic HTML is what gives the page meaning. It typically includes the content that you can read. It's what the page is about.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+   Display: block allows you to control the height and width of the element and takes up the full width available.
+   Display: inline only takes up as much width as necessary and does not force a new line.
 
 3. What are the 4 areas of the box model?
+   Content, Padding, Border, Margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+   The cross-axis, or opposite the vertical axis.
 
 5. Explain why git is valuable to a team of developers.
+   Git is a version control technology that allows many developers to work on the same project, regardless if they're located within the same physical workspace or not.
+   It is also used to keep track of versions of code you commit, so if you make an error you can always revert back to a previous version of your code.
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
